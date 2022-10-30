@@ -43,3 +43,8 @@ body{
   text-align: center;
   padding: 0.5em;
 }
+#fhoto{
+  width: 450px;
+  display: block;
+  margin: auto;
+}
