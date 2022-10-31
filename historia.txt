@@ -10,8 +10,7 @@ Exp2
 
 Master
 
-<<<<<<< HEAD
 Master2
 =======
 
->>>>>>> fec7f78 (Exp1)
+
